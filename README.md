@@ -1,8 +1,4 @@
 # Munkshopen
-https://medieinstitutet.github.io/fed24d-js-intro-inl-1-webshop-angien90/
-
-## Beskrivning
-
 Detta är var mitt första projekt i Javascript under utbildningen. Vi fick 4 veckor på oss att bygga en webbshop där vi skulle uppfylla vissa krav från den ficktiva kunden Gottfrid Jästson.
 
 Det handlade bland annat om att skapa en produktlista med hjälp av en array. Där man skulle kunna öka och minska antalet produkter med hjälp av plus och minus knapp. Man skulle även skapa en varukorg som visar de produkter man valt.
